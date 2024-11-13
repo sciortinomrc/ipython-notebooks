@@ -1,6 +1,9 @@
 ipython-notebooks
 ========================
 
+
+[![security status](https://www.meterian.io/badge/pb/83fcfb84-8999-418c-b3e9-7178f96409be/security)](https://www.meterian.io/projects/?pid=83fcfb84-8999-418c-b3e9-7178f96409be) [![stability status](https://www.meterian.io/badge/pb/83fcfb84-8999-418c-b3e9-7178f96409be/stability)](https://www.meterian.io/projects/?pid=83fcfb84-8999-418c-b3e9-7178f96409be) [![licensing status](https://www.meterian.io/badge/pb/83fcfb84-8999-418c-b3e9-7178f96409be/licensing)](https://www.meterian.io/projects/?pid=83fcfb84-8999-418c-b3e9-7178f96409be)
+
 <a href="https://notebooks.azure.com/import/gh/jdwittenauer/ipython-notebooks"><img src="https://notebooks.azure.com/launch.png" /></a>
 
 This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
